@@ -1,2 +1,2 @@
 # pandas_test
-Trying out Pandas for Python.
+Processing weather data with Pandas for Python.
